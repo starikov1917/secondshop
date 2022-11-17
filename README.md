@@ -1,0 +1,2 @@
+# secondshop
+Shop in python
